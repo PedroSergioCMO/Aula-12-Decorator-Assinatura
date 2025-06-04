@@ -78,7 +78,6 @@ public class Main {
             }
         }
         
-        // Resumo final
         System.out.println("\n====================================");
         System.out.println("         RESUMO DA ASSINATURA");
         System.out.println("====================================");
